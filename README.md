@@ -14,17 +14,3 @@ the box with all built-in search commands, and stays fast even on huge files
 thanks to caching. For full documentation (including extensibility and
 configuration options), see `:help searchindex`.
 
-## Installation
-
-If you don't have a preferred installation method, I recommend
-installing [pathogen.vim](https://github.com/tpope/vim-pathogen), and
-then simply copy and paste:
-
-    cd ~/.vim/bundle
-    git clone https://github.com/google/vim-searchindex.git
-
-Once help tags have been generated, you can view the manual with
-`:help searchindex`.
-
-*Disclaimer: This is not an official Google product. It is just an open source
-code that happens to be owned by Google.*
