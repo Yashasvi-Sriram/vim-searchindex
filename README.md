@@ -6,6 +6,8 @@ index of a current match, in the command line:
 
 <img src="https://raw.githubusercontent.com/google/vim-searchindex/master/vim-searchindex.gif" width="90%">
 
+While navigating between matches it centers the current match in the window and unfolds appropriately.
+
 You can also press `g/` to display search index for the last search term at the
 current cursor position.
 
